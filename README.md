@@ -1,5 +1,7 @@
 # SDD Starter
 
+> **快捷使用：** 如需可在 Codex、Claude Code 和 GitHub Copilot 中安装的 skills 与斜杠命令版本，请使用 [MiniSpec](https://github.com/learnllm-ai/minispec)。
+
 [LearnLLM.AI](https://learnllm.ai) 的 [SDD](https://learnllm.ai/courses/sdd) 课程的配套代码。
 
 这份 starter 帮你用 SDD（Spec-Driven Development）流程做一个项目。流程的核心是**先锁定目标再写代码，每个阶段小而独立、可验证、可合并**，做完一轮再来一轮。
